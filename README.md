@@ -44,3 +44,8 @@ This repository contains a Python-based data visualization project focused on ge
 2. Open `Untitled0.ipynb` to view the initial data loading and plot generation examples.
 3. Modify the target driver variables (e.g., 'VER', 'HAM', 'NOR') to generate new telemetry plots with their respective team colors and styling overlays.
 
+## License
+This project is open-source and available under the MIT License.
+
+
+
