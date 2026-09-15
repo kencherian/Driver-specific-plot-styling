@@ -15,3 +15,24 @@ This repository contains a Python-based data visualization project focused on ge
 * **Matplotlib & Seaborn** (for advanced data visualization)
 * **Pandas** (for data manipulation)
 * **FastF1** (for retrieving timing and telemetry data)
+
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Driver-specific-plot-styling.git
+   cd Driver-specific-plot-styling
+   ```
+
+2. Create a virtual environment (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
