@@ -8,3 +8,10 @@ This repository contains a Python-based data visualization project focused on ge
 * **Telemetry Analysis:** Generate speed, throttle, braking, and gear-shift traces across different circuit sectors.
 * **Interactive Notebooks:** Easy-to-use Jupyter environments (including `Untitled0.ipynb`) for rapid data exploration and manipulation.
 * **Custom Styling Themes:** Apply dark mode, specialized grids, and high-contrast markers tailored for motorsport data visualization.
+
+## Technologies Used
+* **Python 3.x**
+* **Jupyter Notebook**
+* **Matplotlib & Seaborn** (for advanced data visualization)
+* **Pandas** (for data manipulation)
+* **FastF1** (for retrieving timing and telemetry data)
