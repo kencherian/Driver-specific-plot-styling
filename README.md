@@ -36,3 +36,11 @@ This repository contains a Python-based data visualization project focused on ge
    pip install -r requirements.txt
    ```
 
+## Usage
+1. Launch Jupyter Notebook in the project directory:
+   ```bash
+   jupyter notebook
+   ```
+2. Open `Untitled0.ipynb` to view the initial data loading and plot generation examples.
+3. Modify the target driver variables (e.g., 'VER', 'HAM', 'NOR') to generate new telemetry plots with their respective team colors and styling overlays.
+
